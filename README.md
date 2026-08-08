@@ -1,8 +1,10 @@
 # Hi, I'm Mohammad Delowar Hossain 👋
 
-Aspiring AI/ML Engineer | LLM & AI Agent Developer | LangChain • CrewAI • FastAPI • RAG • Python
+Jr. Software Engineer (Intern) @ HyperTAG Solutions Ltd. | Python Developer | AI & Machine Learning Enthusiast | LLMs | FastAPI | NLP
 
-I'm currently looking for Job/Internship opportunities as an AI/ML Engineer. I build practical AI projects — from computer vision and NLP to LLM-based agents and full-stack AI applications.
+I am a Junior Software Engineer (Intern) at HyperTAG Solutions Ltd. with a strong interest in Artificial Intelligence, Machine Learning, and Python development. I enjoy building practical AI solutions, including computer vision systems, NLP applications, LLM-powered agents, and full-stack AI applications.
+
+My technical focus includes Python, FastAPI, Machine Learning, Deep Learning, Natural Language Processing (NLP), Computer Vision, and Large Language Model (LLM) applications. I am passionate about learning modern AI technologies and applying them to real-world problems.
 
 ## 🔧 What I Work With
 
