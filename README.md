@@ -7,14 +7,20 @@ I am a Junior Software Engineer (Intern) at HyperTAG Solutions Ltd. with a stron
 
 My technical focus includes Python, FastAPI, Machine Learning, Deep Learning, Natural Language Processing (NLP), Computer Vision, and Large Language Model (LLM) applications. I am passionate about learning modern AI technologies and applying them to real-world problems.
 
-## 🔧 What I Work With
+## 🔧 What I Work With:
 
-- Languages: Python, JavaScript
-- ML/AI: TensorFlow/PyTorch, YOLOv8, BERT, Scikit-learn
-- LLM & Agents: LangChain, n8n, Anthropic Claude API
-- Backend: FastAPI, Docker
-- Frontend: React, Vite
-- Deployment: Vercel, Render
+* Languages: Python, JavaScript, TypeScript
+* Frontend: React, Vite, HTML5, Tailwind CSS
+* Backend: Python, FastAPI, REST APIs
+
+## 🔧 What I Learn With:
+
+* AI/ML: TensorFlow, PyTorch, Scikit-learn, YOLOv8, BERT
+* LLM & AI: LangChain, n8n, LLM API Integration, Prompt Engineering
+* Development Tools: Git, GitHub, WebStorm, PyCharm
+* DevOps & Deployment: Docker, Vercel, Render
+* Development Practices: REST API Development, Code Review, Debugging, Collaborative Development
+
 
 ## 🚀 Featured Projects
 
@@ -27,5 +33,5 @@ My technical focus includes Python, FastAPI, Machine Learning, Deep Learning, Na
 ## 📫 Contact
 
 - Email: delowarhossain.cse.63@gmail.com
-- LinkedIn: [mohammaddelowarhossain63](https://www.linkedin.com/in/mohammaddelowarhossain63/)
+- LinkedIn: [mohammaddelowarhossain63](https://www.linkedin.com/in/delowarai/)
 - Live Portfolio: https://portfolio-delowar-hossain.vercel.app/
