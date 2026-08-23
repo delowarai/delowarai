@@ -10,8 +10,8 @@ My technical focus includes Python, FastAPI, Machine Learning, Deep Learning, Na
 ## 🔧 What I Work With:
 
 * Languages: Python, JavaScript, TypeScript
-* Frontend: React, Vite, HTML5, Tailwind CSS
-* Backend: Python, FastAPI, REST APIs
+* Front-end: React, Vite, HTML5, Tailwind CSS
+* Back-end: FastAPI, Flask, REST APIs
 
 ## 🔧 What I Learn With:
 
