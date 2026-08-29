@@ -1,6 +1,6 @@
 # Hi, I'm Mohammad Delowar Hossain 👋
 
-Jr. Software Engineer (Intern) @HyperTAG Solutions Ltd. | Full-Stack Software Engineer | React.js | Python | FastAPI | PostgreSQL | AI/ML Enthusiast
+Jr. Software Engineer @ HyperTAG Solutions Ltd.| Full-Stack Software Engineer | React.js | Python | FastAPI | PostgreSQL | AI/ML Enthusiast
 
 
 I am a Junior Software Engineer (Intern) at HyperTAG Solutions Ltd. with a strong interest in Artificial Intelligence, Machine Learning, and Python development. I enjoy building practical AI solutions, including computer vision systems, NLP applications, LLM-powered agents, and full-stack AI applications.
