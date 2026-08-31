@@ -34,4 +34,4 @@ My technical focus includes Python, FastAPI, Machine Learning, Deep Learning, Na
 
 - Email: delowarhossain.cse.63@gmail.com
 - LinkedIn: [mohammaddelowarhossain63](https://www.linkedin.com/in/delowarai/)
-- Live Portfolio: https://portfolio-delowar-hossain.vercel.app/
+- Live Portfolio: https://engr-delowar.vercel.app/
